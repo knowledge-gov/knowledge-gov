@@ -17,7 +17,7 @@ order: 1
 
 <div class="container max-w-lg mx-auto text-xl text-center">
 	<p>Starter template for building <a href="https://www.11ty.dev/" target="_blank">Eleventy</a> static sites with <a href="https://tailwindcss.com/" target="_blank">Tailwind CSS</a> automatically generating the corresponding styles and writing them to a static CSS file.</p>
-	<p class="pt-3"><a href="https://github.com/jeremydaly/eleventy-tailwind-template#readme" class="text-2xl text-transparent bg-clip-text bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500">View the README</a></p>
+	<p class="pt-3"><a href="https://github.com/knowledge-gov/eleventy-tailwind-template#readme" class="text-2xl text-transparent bg-clip-text bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500">View the README</a></p>
 </div>
 
 {% include "navigation.njk" %}
